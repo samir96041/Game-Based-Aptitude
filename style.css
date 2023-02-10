@@ -440,3 +440,18 @@ display: block;
 .socials2 a:hover{
 
 }
+.mark{
+  width: 200px;
+
+}
+.mark p{
+
+  color: black;
+  
+}
+
+.images img{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
